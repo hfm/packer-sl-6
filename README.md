@@ -1,9 +1,9 @@
-# packer-centos-6
+# packer-sl-6
 
 ## Use BOX
 
 ```sh
-vagrant init hfm4/centos6
+vagrant init hfm4/sl6
 vagrant up
 ```
 
